@@ -4,7 +4,7 @@ Este respositório contém os cadernos das aulas do Curso de [Data Science com P
 
 ## Cadernos
 
-1. Numpy Lessons: Caderno que contém o conteúdo das aulas do Módulo 2, que é focado na biblioteca Numpy.
+Os cadernos sempre iniciam com o tema do módulo que está sendo estudado seguindo por `|` e, por fim, a aula específica (Aula 3, por exemplo).
 
 #### Links e Informações Importantes
 
